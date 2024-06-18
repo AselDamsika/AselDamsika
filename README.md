@@ -19,7 +19,7 @@
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
-<a href="[https://www.linkedin.com/in/methmina-binara-864999251/" target="_blank"](https://www.linkedin.com/in/asel-d-bandara-1791072a6/)>
+<a href="[https://www.linkedin.com/in/asel-d-bandara-1791072a6/" target="_blank"](https://www.linkedin.com/in/asel-d-bandara-1791072a6/)>
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
 </p>
