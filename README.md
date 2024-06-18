@@ -84,9 +84,11 @@
 
 ###
 <h2 align="center">
-![Asel's GitHub Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aseldamsika&theme=radical&layout=compact)
+
 
 ![Asel's GitHub stats](https://github-readme-stats.vercel.app/api?username=aseldamsika&theme=radical&show_icons=true)
+
+![Asel's GitHub Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aseldamsika&theme=radical&layout=compact)
 
 ![Asel's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=aseldamsika&theme=radical&show_icons=true)</h2>
 
