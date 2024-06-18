@@ -83,9 +83,9 @@
 <h2 align="left">My Github Stats:</h2>
 
 ###
+<center>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aseldamsika&theme=radical&layout=compact)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aseldamsika&theme=dark&layout=compact)
+![Asel's GitHub stats](https://github-readme-stats.vercel.app/api?username=aseldamsika&theme=radical&show_icons=true)
 
-![Asel's GitHub stats](https://github-readme-stats.vercel.app/api?username=aseldamsika&theme=dark&show_icons=true)
+![Asel's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=aseldamsika&theme=radical&show_icons=true)</center>
 
-![Asel's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=aseldamsika&theme=dark&show_icons=true)
