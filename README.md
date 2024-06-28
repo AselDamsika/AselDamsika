@@ -7,10 +7,6 @@
 
 ###
 
-<h2 align="left">About me</h2>
-
-###
-
 <p align="left">🌱 I’m currently studying Computer Science & Statistics at the University Of Peradeniya<br><br>📫 How to reach me: aseldamsika2000@gmail.com</p>
 
 ###
