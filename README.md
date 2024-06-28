@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Asel Damsika</h1>
+<h1 align="center">Hi👋 I'm Asel Damsika</h1>
 
 ###
 
